@@ -1,0 +1,21 @@
+.nav-link {
+    font-size: 28px;
+    color: white;
+}
+
+.nav-item {
+    margin-right: 1rem;
+}
+
+.navbar-brand {
+    margin-right: 2rem;
+    margin-left: 1rem;
+}
+
+.bg-dark {
+    background-color: black;
+}
+
+.black {
+    background-color: black;
+}
